@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Poppins */
+@font-face {
+    font-family: 'PressStart';
+    src: url("assets/type/PressStart2P-Regular.ttf");
+}
+
+
+/* Text */
+h1.display-1 {
+	font-family: 'PressStart', sans-serif;
+}
