@@ -9,17 +9,18 @@
 
 
 @font-face {
-    font-family: 'Marker';
+    font-family: 'Permanent Marker';
     src: url('assets/type/PermanentMarker-Regular.ttf');
 }
 
 
+
 /* Text */
-h1.display-1 {
-	font-family: 'Permanent Marker', sans-serif;
+h5 {
+	font-family: 'Press Start 2P', sans-serif;
 }
 
-h2 {
-	font-family: 'Marker', sans-serif;
+h1,h2 {
+	font-family: 'Permanent Marker', sans-serif;
 }
 
