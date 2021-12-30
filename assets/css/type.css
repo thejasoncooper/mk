@@ -1,14 +1,25 @@
 @charset "utf-8";
 /* CSS Document */
 
-/* Poppins */
+/* Press Start 2 */
 @font-face {
-    font-family: 'PressStart';
+    font-family: 'Press Start 2P';
     src: url("assets/type/PressStart2P-Regular.ttf");
+}
+
+
+@font-face {
+    font-family: 'Marker';
+    src: url('assets/type/PermanentMarker-Regular.ttf');
 }
 
 
 /* Text */
 h1.display-1 {
-	font-family: 'PressStart', sans-serif;
+	font-family: 'Permanent Marker', sans-serif;
 }
+
+h2 {
+	font-family: 'Marker', sans-serif;
+}
+
