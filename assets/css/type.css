@@ -1,26 +1,23 @@
 @charset "utf-8";
 /* CSS Document */
-
 /* Press Start 2 */
 @font-face {
-    font-family: 'Press Start 2P';
-    src: url("assets/type/PressStart2P-Regular.ttf");
-}
-
+    font-family: 'PressStart';
+    src:  url('assets/type/PressStart2P-Regular') format('ttf');
+  }
 
 @font-face {
-    font-family: 'Permanent Marker';
-    src: url('assets/type/PermanentMarker-Regular.ttf');
-}
-
+    font-family: 'Marker';
+    src:  url('assets/type/PermanentMarker-Regular.ttf') format('ttf');
+  }
 
 
 /* Text */
 h5 {
-	font-family: 'Press Start 2P', sans-serif;
+	font-family: 'PressStart', sans-serif;
 }
 
 h1,h2 {
-	font-family: 'Permanent Marker', sans-serif;
+	font-family: 'Marker', sans-serif;
 }
 
