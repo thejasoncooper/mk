@@ -3,12 +3,12 @@
 /* Press Start 2 */
 @font-face {
     font-family: 'PressStart';
-    src:  url('../type/PressStart2P-Regular.ttf') format('ttf');
+    src:  url('https://thejasoncooper.github.io/mk/assets/type/PressStart2P-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Marker';
-    src:  url('../type/PermanentMarker-Regular.ttf') format('ttf');
+    src:  url('https://thejasoncooper.github.io/mk/assets/type/PermanentMarker-Regular.ttf') format('truetype');
 }
 
 /* Text */
